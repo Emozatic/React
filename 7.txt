@@ -1,0 +1,9 @@
+//structuring componenets
+
+Now we should understand how one element is in other element on a page 
+
+for eg.:-
+    In a card componenet, we have a div for thumbnail, a <h1> tag for title and <p> for the description and we know we can return a single componenet at a time so it is good to combine them seperately
+    let we have
+    Product.jsx for product details.
+    ProductTab.jsx for product card.
