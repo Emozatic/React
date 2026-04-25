@@ -1,0 +1,3 @@
+//JSX with curly braces {}
+
+When we write any thing under curly braces{} it will works as pure JavaScript.
