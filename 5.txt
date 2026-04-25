@@ -1,0 +1,6 @@
+//React fragement
+
+fragement let you group of list of children without adding extra ndoe to the DOM. So, we don't need to combine the child elements with a div or other elements, we simply use:
+ <>
+ -----components-------
+ </>
