@@ -1,0 +1,5 @@
+//Styling our componenets
+
+=>We can style the componenets in one sylesheet(css file), which is again a not good practise.
+
+=>So we use different style.css files for different componenets, but the name should same if the jsx name is Product, the style should be Product.

@@ -1,6 +1,7 @@
+import "./Product.css";
 function Product(){
     return (
-        <div>
+        <div className="mainBox">
         <h1>Heading</h1>
         <p>Description</p>
         </div>
