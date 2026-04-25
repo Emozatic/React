@@ -1,0 +1,19 @@
+//Rewrite our App
+
+=> our App component return single value at a time, for multiple we need to bind all of them with a parent like div.
+
+=>We can write all componenets in a single page but it is not a good practise so we make different pages for different componenets.
+
+=>Import and Export in React
+
+for single item Import
+    import Title from "./Title"
+
+for multiple items import
+    import {Title, Title2} from "./Title"
+
+for single Export
+    export default Title
+
+for multiple Export
+    export{Title}

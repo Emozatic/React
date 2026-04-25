@@ -1,0 +1,14 @@
+//Setting up environment
+
+=>we can use 
+    create-react-app or vite
+
+-> Here we basically use vite because it comes in 2020, newer than create-react-app and faster.
+
+->npm create vite@latest
+-> gives project name --basic-react-app
+-> select a framework --react
+-> select a variant --JavaScript
+-> It will create a full react app with all the files which is needed.
+
+=>App Component is a higher component

@@ -1,0 +1,24 @@
+//React JS  
+
+    =>React JS is a JS library for creating UI and components
+    =>react.dev for official website and documentation.
+
+#Components 
+    Components are reusable piece of code just like functions. Let we have a card and we want to display card on page one or more time, then we render the card-component on page when we need, In React many of the items are component.
+    =>These components are in hierarical form which means every component have parent or child.
+    =>Components have their own html for structure, CSS for style and JS for logic.
+
+#JSX (JavaScript Extension Syntax)
+    It lets us write HTML directly inside JS, It is not real JS or nor pure HTML.
+    =>React is written in JSX.
+    =>JSX is a way for wirting HTML in JS.
+
+# How JSX works:
+    JSX written code are transcripted by BABLE into pure JS 
+
+# Why we use JSX over JS    
+    Because code become easy to understand, readable, easy to render the components comparable to JS.
+    =>We can go to bable.io for more details and check how the code is converting form JSX to JS.
+
+
+
