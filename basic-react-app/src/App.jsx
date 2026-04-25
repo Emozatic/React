@@ -9,7 +9,7 @@ import Title from "./Title";
 
 function App() {
   return (
-    <div>
+    <div className='mainBox'>
       <Title/>
       <h1>This is first heading</h1>
       <h2>This is second heading</h2>

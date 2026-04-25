@@ -1,0 +1,13 @@
+//Writing Markup in JSX
+    We have basic rules to check before writing JSX (refers to react documentation).
+
+1:- Return a single root element
+    To return multiple items form a componenet, wrap them with a single parent tag.
+
+2:- close all tags
+    Because JSX while converting always find closing tags
+    <img></img> or <img/>\
+
+3:- camelCase most of the time
+
+Note:- we have some reserved keywords from JS side like "class" So we can't use them in JSX So, we use "className" instead of "class" to define class name to the element otherwise it will throw error.
