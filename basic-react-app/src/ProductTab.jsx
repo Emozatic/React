@@ -1,7 +1,8 @@
 import Product from "./Product";
 
 function ProductTab(){
-    const option= [<li>high-tech</li>, <li>durable</li>];
+    //const option= [<li>high-tech</li>, <li>durable</li>];
+    const option=["high-tech", "durable"];
     const option2= {a:"technology", b:"value for money"};
     return(
         <>

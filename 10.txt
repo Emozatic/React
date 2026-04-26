@@ -6,3 +6,5 @@
     =>we can see that the array elements are not show seperately, they are stick we each others because of babble conversion
 
     =>So, we can use html <li> type tags to write the elements seperately.
+                            OR 
+    =>We can use map funciton to return the arrays elements.
