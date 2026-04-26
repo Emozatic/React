@@ -1,0 +1,4 @@
+//Passing arrays to Props   
+    we can pass array in the props
+    =>we can use array with an external variable or we can use without variable
+    =>we can pass object and access through with their key.
